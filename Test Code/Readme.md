@@ -9,7 +9,7 @@ When you want to run a script in lua, you will need a folder containing the lua 
 This file will be the one that starts execution, with all others being used by it</br>
 </br>
 To actually run the file, you will need to execute the command:</br>
-  "[Folder containing Love]\love 11.5\lovec.exe" "[Location of Test folder]\Test"</br>
+  start "[Folder containing Love]\love 11.5\lovec.exe" "[Location of Test folder]\Test"</br>
   </br>
 This executes the Test folder with lovec.exe, and will run the code in main.lua in Love
 </p>
