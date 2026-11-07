@@ -18,5 +18,5 @@ This repository will be used in the CSCI 4250 class, in the Autumn 2026 semester
 </p>
 
 <p>Main code will be in primary directory, modules and other tests will be in subdirectories.</br>
-Pyglet still needs to be fully imported—I don't know how to commit via command, and everything else I added was via site upload.
+Pyglet and PyAutoGUI must be installed for project.py to function.
 </p>
