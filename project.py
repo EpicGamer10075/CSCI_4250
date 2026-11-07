@@ -1,10 +1,6 @@
-import sys
-sys.path.append('pyglet-2.1.16')
-import pyglet
 import time
 import threading
-
-sys.path.append('pyautogui-master')
+import pyglet
 import pyautogui
 
 screenWidth, screenHeight = pyautogui.size() # Returns two integers, the width and height of the primary monitor.
