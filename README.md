@@ -18,5 +18,5 @@ This repository will be used in the CSCI 4250 class, in the Autumn 2026 semester
 </p>
 
 <p>Main code will be in primary directory, modules and other tests will be in subdirectories.</br>
-Pyglet and PyAutoGUI must be installed for project.py to function.
+Pyglet, PyAutoGUI, and PyGame must be installed for project.py to function.
 </p>
